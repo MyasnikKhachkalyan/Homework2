@@ -1,0 +1,27 @@
+body{
+	background-image: url("lecture_4.jpg");
+	background-repeat: no-repeat; 
+	background-position: center top;
+	
+}
+
+.open{
+	height: 40px;
+
+}
+
+.hello{
+	text-align: center;
+}
+table{
+	margin-left: 40%;
+
+}
+th{
+	background-color: #448cff;
+	back
+}
+
+td{
+	background-color: #7aadff;
+}
